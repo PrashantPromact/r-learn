@@ -3,5 +3,6 @@
 	<hub>url</hub>
 	<user>Prashant</user>
 	<dob>03/08/1992</dob>
+	<company>Promact</compnay>
 	<location>Baroda</location>
 <git>
