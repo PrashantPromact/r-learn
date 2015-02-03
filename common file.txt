@@ -1,1 +1,2 @@
 lines removed from here
+this is a common file which contains the description of project.
